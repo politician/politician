@@ -11,5 +11,6 @@
   <b>GitHub Stats</b>
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=politician&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide=stars&line_height=24&custom_title=Romain%27s%20GitHub%20stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=politician&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&layout=compact&hide=html,javascript&langs_count=6&cache_seconds=1800&custom_title=Top%20languages%20(js,html,yaml%20aside)" />
+  <a href="https://github.com/politician"><img align="center" src="https://github-readme-stats.vercel.app/api?username=politician&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&line_height=24&custom_title=Romain%27s%20GitHub%20stats" /></a><a href="[https://github.com/anuraghazra/convoychat](https://github.com/politician)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=politician&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&layout=compact&hide_border=true&hide=html,javascript&langs_count=6&custom_title=Top%20languages%20(js,html,yaml%20aside)" /></a>
 </p>
+
